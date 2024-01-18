@@ -1,2 +1,2 @@
-# SEPM
+# RGIT demo
 College Practical
